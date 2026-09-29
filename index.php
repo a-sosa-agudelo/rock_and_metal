@@ -10,9 +10,9 @@
     <header>
         <a href="#inicio" aria-label="Rock y Metal, inicio">ROCK <span aria-hidden="true">&amp;</span> METAL</a>
         <nav aria-label="Navegación principal">
-            <a href="#historia">Historia</a>
-            <a href="#leyendas">Leyendas</a>
-            <a href="#curiosidades">Curiosidades</a>
+            <a href="#historia">Subgéneros</a>
+            <a href="bandas.php">Bandas</a>
+            <a href="#curiosidades">Leyendas</a>
         </nav>
     </header>
 
