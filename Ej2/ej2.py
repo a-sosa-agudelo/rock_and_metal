@@ -36,7 +36,7 @@ elif opcion == "4":
         resultado = numero1 / numero2
         print("Resultado:", resultado)
     else:
-        print("Error: no se puede dividir entre cero.")
+        print("Error: no se puede dividir entre cero.\n")
 
 elif opcion == "5":
     if numero2 != 0:
